@@ -77,7 +77,7 @@ Please drop me a message by email: <u>xhy@zjnu.edu.cn</u>
 
 
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[MM' 1]</b></font> Qian Qu, Xinhang Wan, Weixuan Liang, Jiyuan Liu, Yu Feng, <b>Huiying Xu</b>, Xinwang Liu, En Zhu: <i><u>A Lightweight Anchor-Based Incremental Framework for Multi-view Clustering</u></i>. <font color="green">ACM MM 2024</font>. (CCF Rank A) <a href = "https://huiyingxu-zjnu.github.io/document/813_scalable_multiple_kernel_clust.pdf">[PDF]</a>  </li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[MM' 1]</b></font> Qian Qu, Xinhang Wan, Weixuan Liang, Jiyuan Liu, Yu Feng, <b>Huiying Xu</b>, Xinwang Liu, En Zhu: <i><u>A Lightweight Anchor-Based Incremental Framework for Multi-view Clustering</u></i>. <font color="green">ACM MM 2024</font>. (CCF Rank A) <a href = "https://huiyingxu-zjnu.github.io/document/ftp0574-qu-noAV.pdf">[PDF]</a>  </li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICML' 1]</b></font> Weixuan Liang, En Zhu, Shengju Yu, <b>Huiying Xu</b>*, Xinzhong Zhu*, Xinwang Liu*: <i><u>Scalable Multiple Kernel Clustering: Learning Clustering Structure from Expectation</u></i>. <font color="green">ICML 2024</font>. (CCF Rank A) <a href = "https://huiyingxu-zjnu.github.io/document/813_scalable_multiple_kernel_clust.pdf">[PDF]</a>  </li></p>
 
