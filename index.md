@@ -6,7 +6,7 @@ layout: page
 <font size="6"><b>Contact Information:</b></font>
 
 
-<b>Huiying Xu</b>, received the M.S. degree from National University of Defense Technology(NUDT), China. She is an associate professor with the School of Computer Science and Technology, Zhejiang Normal University, and also the researcher of Research Institute of Ningbo Cixing Co. Ltd, PR, China. Her research interests include deep graph clustering, kernel learning and feature selection, machine learning, deep learning, computer vision, image processing, pattern recognition, computer simulation, digital watermarking, and their applications. 
+<b>Huiying Xu</b>, received the M.S. degree from National University of Defense Technology(NUDT), China. She is an associate professor with the School of Computer Science and Technology, Zhejiang Normal University, and also a researcher at the Research Institute of Ningbo Cixing Co. Ltd, PR, China. Her research interests include deep graph clustering, kernel learning and feature selection, machine learning, deep learning, computer vision, image processing, pattern recognition, computer simulation, digital watermarking, and their applications. 
 
 Please drop me a message by email: <u>xhy@zjnu.edu.cn</u>
 
