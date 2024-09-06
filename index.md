@@ -17,7 +17,7 @@ Please drop me a message by email: <u>xhy@zjnu.edu.cn</u>
   <ol>
 
 
- <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[Axioms' 2]</b></font> Mahvish Samar, Xinzhong Zhu*, <b>Huiying Xu</b>: <i><u>Conditioning Theory for ML-Weighted Pseudoinverse and ML-Weighted Least Squares Problem</u></i>. <font color="green">Axioms</font>: 13 (2024) 345. (SCI Q2) <a href = "https://huiyingxu-zjnu.github.io/document/5-Conditioning%20Theory%20for%20ML-Weighted.pdf">[PDF]</a></li></p>
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[Axioms' 1]</b></font> Mahvish Samar, Xinzhong Zhu*, <b>Huiying Xu</b>: <i><u>Conditioning Theory for ML-Weighted Pseudoinverse and ML-Weighted Least Squares Problem</u></i>. <font color="green">Axioms</font>: 13 (2024) 345. (SCI Q2) <a href = "https://huiyingxu-zjnu.github.io/document/5-Conditioning%20Theory%20for%20ML-Weighted.pdf">[PDF]</a></li></p>
 
 
 
@@ -26,7 +26,7 @@ Please drop me a message by email: <u>xhy@zjnu.edu.cn</u>
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[JKSU' 1]</b></font> Negalign Wake Hundera, Shumeng Wang, Dagmawit Mesfin, <b>Huiying Xu</b>, Xinzhong Zhu*: <i><u>An efficient online/offline heterogeneous proxy signcryption for secure communication in UAV networks</u></i>. <font color="green">Journal of King Saud University - Computer and Information Sciences</font> (<b>JKSU</b>) 36(5): 102044. (2024) (SCI Q2) <a href = "https://huiyingxu-zjnu.github.io/document/1-s2.0-S1319157824001332-main.pdf">[PDF]</a></li></p>
 
 
- <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[Neurocomputing' 2]</b></font> Xinyu Zhang, <b>Huiying Xu</b>*, Xinzhong Zhu, Yuhang Chen: <i><u>Deep Contrastive Clustering via Hard Positive Sample Debiased</u></i>. <font color="green">Neurocomputing</font> 570: 127147. (2024) (SCI Q1) <a href = "https://huiyingxu-zjnu.github.io/document/%5BNeuroComputing%5D%20Deep%20Contrastive%20Clustering%20via%20Hard%20positive%20sample%20Debiased.pdf">[PDF]</a></li></p>
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[Neurocomputing' 1]</b></font> Xinyu Zhang, <b>Huiying Xu</b>*, Xinzhong Zhu, Yuhang Chen: <i><u>Deep Contrastive Clustering via Hard Positive Sample Debiased</u></i>. <font color="green">Neurocomputing</font> 570: 127147. (2024) (SCI Q1) <a href = "https://huiyingxu-zjnu.github.io/document/%5BNeuroComputing%5D%20Deep%20Contrastive%20Clustering%20via%20Hard%20positive%20sample%20Debiased.pdf">[PDF]</a></li></p>
 
 
 
@@ -43,10 +43,10 @@ Please drop me a message by email: <u>xhy@zjnu.edu.cn</u>
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[Sensors and Actuators: B. Chemical' 1]</b></font> Dawei Cao, Hechuan Lin, Ziyang Liu, Jiaji Qiu, Shengjie Ge, Weiwei Hua, Xiaowei Cao, Yayun Qian, <b>Huiying Xu</b>*, Xinzhong Zhu: <i><u>PCA-TLNN-based SERS analysis platform for label-free detection and identification of cisplatin-treated gastric cancer</u></i>. <font color="green">Sensors and Actuators: B. Chemical</font> (SCI Q1)  <a href = "https://huiyingxu-zjnu.github.io/document/2023_5_5.pdf">[PDF]</a> </li></p>  
 
   
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TMM' 2]</b></font> Changchong Sheng, Xinzhong Zhu*, <b>Huiying Xu</b>, Matti Pietikainen, Li Liu: <i><u>Adaptive Semantic-Spatio-Temporal Graph Convolutional Network for Lip Reading</u></i>. <font color="green">IEEE Transactions on Multimedia (<b>TMM</b>)</font> (Early Access, CCF Rank B) <a href = "https://huiyingxu-zjnu.github.io/document/Adaptive_Semantic-Spatio-Temporal_Graph_Convolutional_Network_for_Lip_Reading.pdf">[PDF]</a></li></p>  
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TMM' 1]</b></font> Changchong Sheng, Xinzhong Zhu*, <b>Huiying Xu</b>, Matti Pietikainen, Li Liu: <i><u>Adaptive Semantic-Spatio-Temporal Graph Convolutional Network for Lip Reading</u></i>. <font color="green">IEEE Transactions on Multimedia (<b>TMM</b>)</font> (Early Access, CCF Rank B) <a href = "https://huiyingxu-zjnu.github.io/document/Adaptive_Semantic-Spatio-Temporal_Graph_Convolutional_Network_for_Lip_Reading.pdf">[PDF]</a></li></p>  
 
   
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TCYB' 3]</b></font> Miaomiao Li#, Jingyuan Xia#, <b>Huiying Xu</b>#, Qing Liao, Xinzhong Zhu*, Xinwang Liu*: "<i><u>Localized Incomplete Multiple Kernel k-means with Matrix-induced Regularization</u></i>". <font color="green"> IEEE Transactions on Cybernetics (<b>TCYB</b>)</font> (CCF Rank B)<a href = "https://xinwangliu.github.io/document/TCYB1.pdf">[PDF]</a></li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TCYB' 1]</b></font> Miaomiao Li#, Jingyuan Xia#, <b>Huiying Xu</b>#, Qing Liao, Xinzhong Zhu*, Xinwang Liu*: "<i><u>Localized Incomplete Multiple Kernel k-means with Matrix-induced Regularization</u></i>". <font color="green"> IEEE Transactions on Cybernetics (<b>TCYB</b>)</font> (CCF Rank B)<a href = "https://xinwangliu.github.io/document/TCYB1.pdf">[PDF]</a></li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IJIS' 1]</b></font> Huiqiang Lian, <b>Huiying Xu</b>*, Siwei Wang, Miaomiao Li, Xinzhong Zhu, Xinwang Liu: "<i><u>Partial multiview clustering with locality graph regularization</u></i>". <font color="green">International Journal of Intelligent Systems (<b>IJIS</b>)</font> 36(6): 2991- 3010 (2021) (SCI Q1) <a href = "https://huiyingxu-zjnu.github.io/document/Int%20J%20of%20Intelligent%20Sys%20-%202021%20-%20Huiying%20Xu%20-%20Partial%20multiview%20clustering%20with%20locality%20graph%20regularization.pdf">[PDF]</a></li></p>
   
