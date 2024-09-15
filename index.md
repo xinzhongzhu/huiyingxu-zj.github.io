@@ -19,8 +19,7 @@ Please drop me a message by email: <u>xhy@zjnu.edu.cn</u>
 
 
 
- <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[DSP' 1]</b></font> Yi Li, <b>Huiying Xu</b>*, Xinzhong Zhu, Xiao Huang and Hongbo Li: <i><u>THDet: A Lightweight and Efficient Traffic Helmet Object Detector based on YOLOv8</u></i>. <font color="green">Digital Signal Processing</font> (<b>DSP</b>). (SCI Q3) <a href = "https://huiyingxu-zj.github.io/document/2024_9_15.pdf">[PDF]</a></li></p>
-
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[DSP' 1]</b></font> Yi Li, Huiying Xu*, <b>Xinzhong Zhu</b>, Xiao Huang and Hongbo Li: <i><u>THDet: A Lightweight and Efficient Traffic Helmet Object Detector based on YOLOv8</u></i>. <font color="green">Digital Signal Processing: 155 (2024) 104765</font> (<b>DSP</b>). (SCI Q3) <a href = "https://huiyingxu-zj.github.io/document/2024_9_15.pdf">[PDF]</a></li></p>
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[Axioms' 1]</b></font> Mahvish Samar, Xinzhong Zhu*, <b>Huiying Xu</b>: <i><u>Conditioning Theory for ML-Weighted Pseudoinverse and ML-Weighted Least Squares Problem</u></i>. <font color="green">Axioms</font>: 13 (2024) 345. (SCI Q2) <a href = "https://huiyingxu-zjnu.github.io/document/5-Conditioning%20Theory%20for%20ML-Weighted.pdf">[PDF]</a></li></p>
 
