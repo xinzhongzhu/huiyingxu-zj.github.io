@@ -80,7 +80,7 @@ Please drop me a message by email: <u>xhy@zjnu.edu.cn</u>
   <p>
     <ol>
 
-<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI' 3]</b></font> Pei Zhang, Yuangang Pan, ZSiwei Wang, Shengju Yu, <b>Huiying Xu</b>*, En Zhu*, Xinwang Liu*, Ivor Tsang: <i><u>Max-Mahalanobis Anchors Guidance for Multi-View Clustering</u></i>. <font color="green">AAAI 2025</font>. (CCF Rank A) <a href = "https://xinzhongzhu.github.io/document/MultiView Clustering.pdf">[PDF]</a> </li></p>
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI' 3]</b></font> Pei Zhang, Yuangang Pan, Siwei Wang, Shengju Yu, <b>Huiying Xu</b>*, En Zhu*, Xinwang Liu*, Ivor Tsang: <i><u>Max-Mahalanobis Anchors Guidance for Multi-View Clustering</u></i>. <font color="green">AAAI 2025</font>. (CCF Rank A) <a href = "https://xinzhongzhu.github.io/document/MultiView Clustering.pdf">[PDF]</a> </li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI' 2]</b></font> Chen Li, Rui Zhao, Zeyu Wang, <b>Huiying Xu</b>*, Xinzhong Zhu*: <i><u>RemDet: Rethinking Efficient Model Design for UAV Object Detection</u></i>. <font color="green">AAAI 2025</font>. (CCF Rank A) <a href = "https://xinzhongzhu.github.io/document/RemDet_AAAI.pdf">[PDF]</a> <a href = "https://github.com/HZAI-ZJNU/RemDet">[Code]</a> <a href = "https://hub.baai.ac.cn/paper/cedfd291-c1cb-4e13-9d87-844382c5a09d#introduction">[Intro]</a></li></p>
 
