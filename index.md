@@ -90,6 +90,8 @@ Please drop me a message by email: <u>xhy@zjnu.edu.cn</u>
   <p>
     <ol>
 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICASSP' 2]</b></font> Minghao Li, Hechuan Lin, Huiying Xu*, Ziying Wang, <b>Xinzhong Zhu</b>,  Xiao Huang: <i><u>One-step Incomplete Muti-view Clustering based on Bipartite Graph Learning</u></i>. <font color="green">ICASSP 2025</font>. (CCF Rank B) <a href = "https://xinzhongzhu.github.io/document/Minghao-Li.pdf">[PDF]</a>  </li></p>
+
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI' 4]</b></font> Yu Feng, Weixuan Liang, Xinhang Wan, Jiyuan Liu, Suyuan Liu, Qian Qu, Guan, <b>Huiying Xu</b>*, Xinwang Liu*: <i><u>Incremental Nystrom-based Multiple Kernel Clustering</u></i>. <font color="green">AAAI 2025</font>. (CCF Rank A) <a href = "https://xinzhongzhu.github.io/document/Incremental.pdf">[PDF]</a> </li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI' 3]</b></font> Pei Zhang, Yuangang Pan, Siwei Wang, Shengju Yu, <b>Huiying Xu</b>*, En Zhu*, Xinwang Liu*, Ivor Tsang: <i><u>Max-Mahalanobis Anchors Guidance for Multi-View Clustering</u></i>. <font color="green">AAAI 2025</font>. (CCF Rank A) <a href = "https://xinzhongzhu.github.io/document/MultiView Clustering.pdf">[PDF]</a> </li></p>
