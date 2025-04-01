@@ -90,6 +90,8 @@ Please drop me a message by email: <u>xhy@zjnu.edu.cn</u>
   <p>
     <ol>
 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CSCWD' 1]</b></font> Linwei Yao, Kuan Li*, <b>Huiying Xu</b>, Xinzhong Zhu*, Hongbo Li: <i><u>Multi-DAT: Dynamic Job Task Scheduling Method Based on Multi-agent Reinforcement Learning</u></i>. <font color="green">CSCWD 2025</font>. (CCF Rank B) <a href = "https://xinzhongzhu.github.io/document/Dynamic_scheduling_of_carrier_based_aircraft_support_tasks_based_on_multi_agent_reinforcement_learning.pdf">[PDF]</a>  </li></p>
+
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ICASSP' 2]</b></font> Minghao Li, Hechuan Lin, Huiying Xu*, Ziying Wang, <b>Xinzhong Zhu</b>,  Xiao Huang: <i><u>One-step Incomplete Muti-view Clustering based on Bipartite Graph Learning</u></i>. <font color="green">ICASSP 2025</font>. (CCF Rank B) <a href = "https://xinzhongzhu.github.io/document/Minghao-Li.pdf">[PDF]</a>  </li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AAAI' 4]</b></font> Yu Feng, Weixuan Liang, Xinhang Wan, Jiyuan Liu, Suyuan Liu, Qian Qu, Guan, <b>Huiying Xu</b>*, Xinwang Liu*: <i><u>Incremental Nystrom-based Multiple Kernel Clustering</u></i>. <font color="green">AAAI 2025</font>. (CCF Rank A) <a href = "https://xinzhongzhu.github.io/document/Incremental.pdf">[PDF]</a> </li></p>
