@@ -16,6 +16,8 @@ Please drop me a message by email: <u>xhy@zjnu.edu.cn</u>
   <p>
   <ol>
 
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[FC' 1]</b></font> Jinhong Li, <b>Huiying Xu*</b>, Xinzhong Zhu, Jiping Xiong, Xiaolei Zhang: <i><u>FSF-ViT: Image augmentation and adaptive global-local feature fusion for Few-Shot Food classification</u></i>. <font color="green">Food Chemistry</font> . (12 July 2025) (SCI Q1) <a href = "https://xinzhongzhu.github.io/document/FSFViT.pdf">[PDF]</a></li></p>
+
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[EAAI' 1]</b></font> Xuedong He***, <b>Huiying Xu*</b>, Xinzhong Zhu**, Hongbo Li, Xiao Huang, Yunliang Jiang: <i><u>Learning color prompt and position constraint for visual tracking</u></i>. <font color="green">Engineering Applications of Artificial Intelligence</font> . (4 June 2025) (SCI Q2) <a href = "https://xinzhongzhu.github.io/document/Learning color prompt.pdf">[PDF]</a></li></p>
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CJPH' 1]</b></font> Zahoor Iqbal*, Nisha A․, Vinoth kumar B․, <b>Huiying Xu*</b>, Xinzhong Zhu*, Ridha Selmi*, Sahar Ahmed Idris, Ines Hilali Jaghdam, Ahmed M. Abed: <i><u>Numerical simulations of combined effect of viscosity variation and magnetohydrodynamic (MHD) characteristics for wide porous slider bearings with exponential film profile</u></i>. <font color="green">Chinese Journal of Physics</font> . (24 March 2025) (SCI Q2) <a href = "https://xinzhongzhu.github.io/document/CJPH2984.pdf">[PDF]</a></li></p>
