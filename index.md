@@ -16,6 +16,11 @@ Please drop me a message by email: <u>xhy@zjnu.edu.cn</u>
   <p>
   <ol>
 
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[electronics' 1]</b></font> Balong Wang, Nassim Bessaad, <b>Huiying Xu*</b>, Xinzhong Zhu, Hongbo Li: <i><u>Mergeable Probabilistic Voxel Mapping for LiDAR–Inertial–Visual Odometry</u></i>. <font color="green"> electronics </font> . (May 24 2025) (SCI Q3) <a href = "https://xinzhongzhu.github.io/document/Mergeable Probabilistic Voxel Mapping for LiDAR–Inertial–Visual Odometry.pdf">[PDF]</a></li></p>
+
+ <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CSI' 1]</b></font> Zohaib Ali, Junaid Hassan, Muhammad Umar Aftab*, Negalign Wake Hundera*, <b>Huiying Xu</b>, Xinzhong Zhu*: <i><u>Securing Wireless Body Area Network with lightweight certificateless signcryption scheme using equality test</u></i>. <font color="green"> Computer Standards & Interfaces </font> . (Sep 17 2025) (SCI Q2) <a href = "https://xinzhongzhu.github.io/document/Securing Wireless Body.pdf">[PDF]</a></li></p>
+
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[TII' 1]</b></font> Wenjie Yao, Guanglu Sun, Suxia Zhu, Ruidong Wang, Xinzhong Zhu, <b>Huiying Xu*</b>, Xiguang Wei: <i><u>FedRDA: Representation Deviation Alignment in Heterogeneous Federated Learning</u></i>. <font color="green"> IEEE Transactions on Industrial Informatics</font> . (Nov 2025) (SCI Q1) <a href = "https://xinzhongzhu.github.io/document/FedRDA.pdf">[PDF]</a></li></p>
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[Medical Physics' 1]</b></font> Yue Hu, <b>Huiying Xu*</b>, Xinzhong Zhu, Xiao Huang: <i><u>An exploratory study on ultrasound image denoising using feature extraction and adversarial diffusion model</u></i>. <font color="green">[Medical Physics</font> . (8 Sep 2025) (SCI Q1) <a href = "https://xinzhongzhu.github.io/document/ADM-ExNet.pdf">[PDF]</a></li></p>
