@@ -16,6 +16,11 @@ Please drop me a message by email: <u>xhy@zjnu.edu.cn</u>
   <p>
   <ol>
 
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[ESWA' 1]</b></font> Yi Li, <b>Huiying Xu*</b>, Yiming Sun, Pengfei Zhu, Lingling Xu, Xinzhong Zhu: <i><u>KSCNet: Exploring KAN and state space model collaboration network for small object detection from UAV imagery</u></i>. <font color="green">Expert Systems With Applications</font>  (28 Oct 2025) (SCI Q1) <a href = "https://xinzhongzhu.github.io/document/KSCNet.pdf">[PDF]</a></li></p>  
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[Scientific Reports' 1]</b></font> Nafissa T. Trouba, <b>Huiying Xu*</b>, Mohamed E. M. Alngar*, Reham M. A.Shohib,  Mohammed El-Meligy, Xinzhong Zhu, Mohamed Sharaf: <i><u>Optical soliton solutions of the stochastic generalized nonlinear Schrödinger equation with arbitrary refractive index in Itô sense</u></i>. <font color="green">Scientific Reports</font>  (Oct 2025) (SCI Q3) <a href = "https://xinzhongzhu.github.io/document/Optical soliton solutions.pdf">[PDF]</a></li></p>  
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[AIMS Mathematics' 3]</b></font> Nafissa T. Trouba, <b>Huiying Xu*</b>, Reham M. A.Shohib*, Mohamed E. M. Alngar,  Mohammed El-Meligy, Xinzhong Zhu, Adham E. Ragab: <i><u>Stochastic soliton dynamics in the perturbed Gerdjikov-Ivanov equation with multiplicative noise via the new Jacobi elliptic function expansion method</u></i>. <font color="green">AIMS Mathematics</font>  (09 Oct 2025) (SCI Q3) <a href = "https://xinzhongzhu.github.io/document/Stochastic soliton dynamics.pdf">[PDF]</a></li></p>  
 
  <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[CSI' 1]</b></font> Zohaib Ali, Junaid Hassan, Muhammad Umar Aftab*, Negalign Wake Hundera*, <b>Huiying Xu</b>, Xinzhong Zhu*: <i><u>Securing Wireless Body Area Network with lightweight certificateless signcryption scheme using equality test</u></i>. <font color="green"> Computer Standards & Interfaces </font> . (17 Sep 2025) (SCI Q2) <a href = "https://xinzhongzhu.github.io/document/Securing Wireless Body.pdf">[PDF]</a></li></p>
 
@@ -104,6 +109,8 @@ Please drop me a message by email: <u>xhy@zjnu.edu.cn</u>
   <summary><font size="6"><b>Selected Conference Papers</b></font> <font size="4" color="blue">(<i><u>Click to Hide</u></i>)</font>:</summary>
   <p>
     <ol>
+
+<p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[RICAI' 1]</b></font> Ziqing He, Longfei Wang, <b>Huiying Xu*</b>, Xinzhong Zhu, Jiaxiao Xiong: <i><u>Media Practice-Driven Technology Iteration and Value Realization: A Framework Study on Geometry-Guided UAV Crowd Counting</u></i>. <font color="green">RICAI 2025</font>. (EI) <a href = "https://xinzhongzhu.github.io/document/Media Practice-Driven Technology Iteration.pdf">[PDF]</a> </li></p>
 
 <p style="margin-top: 8px;"><li><font face="verdana" color="blue"><b>[IEEE MITA' 1]</b></font> Zebin Wu, Zijia Wang*, <b>Huiying Xu*</b>, Xinzhong Zhu, Hongbo Li: <i><u>Adaptive Dimensional Learning for Multitask Optimization</u></i>. <font color="green">IEEE MITA 2025</font>. (EI) <a href = "https://xinzhongzhu.github.io/document/ADLMTO.pdf">[PDF]</a> </li></p>
 
